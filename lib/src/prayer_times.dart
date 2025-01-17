@@ -1,11 +1,11 @@
-import 'package:adhan/src/data/calendar_util.dart';
-import 'package:adhan/src/extensions/datetime.dart';
 
 import 'calculation_method.dart';
 import 'calculation_parameters.dart';
 import 'coordinates.dart';
+import 'data/calendar_util.dart';
 import 'data/date_components.dart';
 import 'data/time_components.dart';
+import 'extensions/datetime.dart';
 import 'internal/solar_time.dart';
 import 'madhab.dart';
 import 'prayer.dart';

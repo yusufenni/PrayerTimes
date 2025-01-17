@@ -1,4 +1,3 @@
-import 'package:adhan/src/extensions/datetime.dart';
 
 class TimeComponents {
   final int hours;

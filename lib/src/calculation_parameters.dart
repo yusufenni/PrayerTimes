@@ -42,7 +42,7 @@ class CalculationParameters {
       this.maghribAngle,
       this.ishaAngle,
       this.ishaInterval = 0,
-      this.madhab = Madhab.shafi,
+      this.madhab = Madhab.hanafi,
       this.highLatitudeRule = HighLatitudeRule.middle_of_the_night,
       PrayerAdjustments? adjustments,
       PrayerAdjustments? methodAdjustments})
